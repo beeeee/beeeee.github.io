@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Home Automation
-permalink: /homeautomation/
+title: Projects
+permalink: /projects/
 ---
+
+
+Home Automation
 
 I run Home Assistant on an older Chromebox CN60 flashed with SeaBIOS. It uses a i7-4600U and I've added 16GB of DDR3, which is absolutely overkill, so definitely room to grow!
 
